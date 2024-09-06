@@ -1,0 +1,2 @@
+# Statistical-Analysis-of-Yelp-Dataset-to-Understand-Restaurant-Performance
+Statistical Analysis of Yelp Dataset to Understand Restaurant Performance. Using a given dataset of user reviews based on the resturants present in a given area we have to figure out if a certain restaurant can be setup in a given area based on the analysis done, how confident we are statistically and if the same holds practically as well
